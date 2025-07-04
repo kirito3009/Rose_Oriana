@@ -1,7 +1,7 @@
 [
     {
         "session": "ses",
-        "token": "7608028119:AAGFmC57jqWtMJut6vJPcSxD73-yRS2pLB8",
+        "token": "7702681909:AAH48Ran7U3wxFYpndQFQqhMEzn2u-U5rEo",
         "api_id": "25984365",
         "api_hash": "f16f22343566116e2319621b07ba5013",
         "workers": 8,
@@ -20,6 +20,6 @@
         },
         "admins": [5779295913, 73468932],
         "disable_btn": true,
-        "protect": false
+        "protect": true
     }
 ]
